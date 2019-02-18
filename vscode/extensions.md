@@ -1,0 +1,31 @@
+# Extensions
+
+- Auto Close Tag
+- Auto Rename Tag
+- Better Comments
+- Bracket Pair Colorizer 2
+- Cobalt2 Theme Official
+- CodeMetrics
+- Color Info
+- Color Highlight
+- Docker
+- ESLint
+- GitLens
+- Guides
+- IntelliSense for CSS class names in HTML
+- IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS
+- Import Cost
+- jshint
+- markdownlint
+- npm
+- npm Intellisense
+- Path Intellisense
+- Polacode
+- Prettier - Code formatter
+- Rainbow Brackets
+- Rainbow CSV
+- SAss Lint
+- SCSS IntelliSense
+- Sublime Text Keymap and Settings Importer
+- TODO Highlit
+- vscode-icons
