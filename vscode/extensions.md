@@ -30,8 +30,7 @@
 - TODO Highlit
 - vscode-icons
 
-
-```
+```code
 2gua.rainbow-brackets
 aaron-bond.better-comments
 abusaidm.html-snippets
@@ -86,4 +85,3 @@ wix.vscode-import-cost
 xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
 ```
-pnp.polacode
