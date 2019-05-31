@@ -155,7 +155,8 @@ module.exports = {
   localPlugins: [],
 
   keymaps: {
-    // Example
-    // 'window:devtools': 'cmd+alt+o',
+    "pane:splitVertical": "cmd+d",
+    "pane:splitHorizontal": "cmd+shift+d",
+    "editor:clearBuffer": "cmd+r"
   },
 };
